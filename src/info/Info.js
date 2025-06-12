@@ -27,10 +27,10 @@ of what each of the values mean.
  */
 
 export const info = {
-    firstName: "John",
-    lastName: "Smith",
-    initials: "js", // the example uses first and last, but feel free to use three or more if you like.
-    position: "a Full Stack Developer",
+    firstName: "Jakub ",
+    lastName: "Tomovcik",
+    initials: "JT", // the example uses first and last, but feel free to use three or more if you like.
+    position: "a Cyber Security Engineer", // this is the title that will be displayed on the homepage, and in the header of the portfolio page.
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
@@ -41,7 +41,7 @@ export const info = {
         },
         {
             emoji: '🌎',
-            text: 'based in the US'
+            text: 'based in the SK'
         },
         {
             emoji: "💼",
@@ -49,7 +49,7 @@ export const info = {
         },
         {
             emoji: "📧",
-            text: "johnsmith@gmail.com"
+            text: "example@gmail.com"
         }
     ],
     socials: [
