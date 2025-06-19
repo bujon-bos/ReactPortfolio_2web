@@ -1,5 +1,5 @@
 import React from 'react';
-import IconLink from "./IconLink";
+import IconLink from "../IconLink";
 import {Box} from "@mui/material";
 
 function PortfolioBlock(props) {
